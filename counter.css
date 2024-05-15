@@ -1,0 +1,14 @@
+body{
+	background: green;
+	text-align: center;
+	justify-content: center;
+	color: gold;
+	text-shadow: 1px 1px black;
+}
+
+button{
+	background: gold;
+	padding: 6vw 12vw;
+	border: none;
+	border-radius: 16px;
+}
